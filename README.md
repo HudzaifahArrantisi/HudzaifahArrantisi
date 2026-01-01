@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://i.imgur.com/7X9X7Hk.png" width="200">
+  <h2>Cybersecurity Enthusiast</h2>
+</div>
 
-<!--
-**HudzaifahArrantisi/HudzaifahArrantisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🎓 Student at STT Nurul Fikri  
+- 🔍 Reverse Engineering  
+- ⚔️ CTF & Pentester  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
+  </a>
+  <a href="https://instagram.com">
+    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram">
+  </a>
+</p>
