@@ -32,17 +32,6 @@
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight"/>
-
-</div>
-
-
 ## 🌐 Connect With Me
 
 <p align="center">
