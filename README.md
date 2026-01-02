@@ -30,18 +30,7 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
 
----
 
-## 📌 Featured Projects
-- 🔓 **Web Pentest Lab** – XSS, SQLi, Auth Bypass
-- 🎟️ **Concert Ticket System** (JSP / Spring Boot / PostgreSQL)
-- 🏥 **CRUD Puskesmas App** (PHP + MySQL)
-- 🚗 **Service Kendaraan System** (Role-based Access)
-- 📊 **Statistical Research Project** (Regression Analysis)
-
-> 👉 Check my repositories for more!
-
----
 
 ## 📊 GitHub Stats
 
@@ -53,7 +42,6 @@
 
 </div>
 
----
 
 ## 🌐 Connect With Me
 
@@ -69,7 +57,6 @@
   </a>
 </p>
 
----
 
 <div align="center">
 
