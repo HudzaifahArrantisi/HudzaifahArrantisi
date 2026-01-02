@@ -10,16 +10,6 @@
 
 </div>
 
----
-
-## 🚀 About Me
-- 🔐 Passionate about **Web Application Security**
-- 🧪 Actively doing **Pentesting & Vulnerability Research**
-- 🏴‍☠️ Enjoy **CTF Challenges**
-- 💻 Tech Stack: Web, Backend, Database, Security
-- 🌱 Currently learning **Advanced Exploitation & Cloud Security**
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -80,9 +70,6 @@
 </p>
 
 ---
-
-## 🧠 Motto
-> **"Break systems to build them stronger."** 🔥
 
 <div align="center">
 
