@@ -1,13 +1,3 @@
-<div align="center">
-
-# 👋 Hi, I'm Hudzaifah Arantisi
-
-🛡️ **Cybersecurity Enthusiast | Pentester | CTF Player**  
-🎓 Student at **STT Nurul Fikri**  
-🧠 Interested in **Reverse Engineering, Web Security, DevSecOps**
-
-</div>
-
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming & Scripting
