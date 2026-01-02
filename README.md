@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://i.imgur.com/7X9X7Hk.png" width="180"/>
-
 # 👋 Hi, I'm Hudzaifah Arantisi
 
 🛡️ **Cybersecurity Enthusiast | Pentester | CTF Player**  
@@ -9,7 +7,6 @@
 🧠 Interested in **Reverse Engineering, Web Security, DevSecOps**
 
 </div>
-
 
 ## 🛠️ Tech Stack & Tools
 
