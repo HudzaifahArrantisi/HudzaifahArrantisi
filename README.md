@@ -15,5 +15,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&style=flat&color=0A66C2"/>
