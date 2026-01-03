@@ -1,8 +1,7 @@
 ## 👋 Hi, I'm R
 
 🎓 Student at **STT Nurul Fikri**  
-🔐 Aspiring **Reverse Engineer**  
-🚩 CTF Player & Cybersecurity Enthusiast  
+🔐 informatics engineering | Cyber Security | Bug Hunter/Penetration Tensting 
 
 <p>
   <a href="https://linkedin.com/in/USERNAME">
