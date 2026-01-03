@@ -2,18 +2,9 @@
 
 🎓 **Informatics Engineering Student** at **STT Nurul Fikri**  
 🔐 **Cyber Security Enthusiast | Penetration Tester | Bug Hunter**  
-🐧 **Linux Enthusiast**  
-📍 Depok, Indonesia  
+🐧 **Linux Enthusiast**    
 
 > *"Learning by breaking things — ethically."*
-
-## 🚀 About Me
-- 🔍 Focused on **Web Security**, **Vulnerability Assessment**, and **Penetration Testing**
-- 🐞 Interested in **Bug Bounty**, **XSS**, **Authentication Bypass**, and **API Security**
-- 🛠️ Comfortable working with **Linux-based environments**
-- 📚 Currently exploring **Backend Security & Secure Coding**
-- ⚡ Always curious about how systems can fail — and how to fix them
-
 
 ## 🌐 Connect With Me
 
