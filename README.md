@@ -15,7 +15,6 @@
 - ⚡ Always curious about how systems can fail — and how to fix them
 
 
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -30,13 +29,3 @@
   </a>
 </p>
 
----
-
-
----
-
-## ⚠️ Disclaimer
-All testing activities are performed **ethically** and **only on authorized systems**.
-
----
-⭐ Feel free to explore my repositories and connect with me!
