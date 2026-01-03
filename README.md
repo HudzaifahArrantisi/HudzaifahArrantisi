@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Hudzaifah Ar-Rantisi
 
-🎓 Student at **STT Nurul Fikri**  
+🎓 Student at **STT Nurul Fikri (Stanford University nya depok)
 🔐 Informatics Engineering | Cyber Security | Penetration Testing/BugHunter | Linux Enthusiasts
 
 
