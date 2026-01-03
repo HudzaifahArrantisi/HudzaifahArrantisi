@@ -1,6 +1,10 @@
-## 🌐 Connect with Me
+## 👋 Hi, I'm R
 
-<p align="center">
+🎓 Student at **STT Nurul Fikri**  
+🔐 Aspiring **Reverse Engineer**  
+🚩 CTF Player & Cybersecurity Enthusiast  
+
+<p>
   <a href="https://linkedin.com/in/USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
@@ -12,6 +16,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&style=flat&color=0A66C2"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&style=flat&color=0A66C2"/>
