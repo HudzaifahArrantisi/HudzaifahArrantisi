@@ -1,7 +1,8 @@
-## 👋 Hi, I'm R
+## 👋 Hi, I'm Hudzaifah Ar-Rantisi
 
 🎓 Student at **STT Nurul Fikri**  
-🔐 informatics engineering | Cyber Security | Bug Hunter/Penetration Tensting 
+🔐 Informatics Engineering | Cyber Security | Penetration Testing/BugHunter | Linux Enthusiasts
+
 
 <p>
   <a href="https://linkedin.com/in/USERNAME">
