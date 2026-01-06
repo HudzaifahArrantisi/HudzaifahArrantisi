@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hudzaifah Ar-Rantisi
 
 🎓 **Informatics Engineering Student** at **STT Nurul Fikri (STANFORD nya depok)**  
-🔐 **Informatics Engineering | Cyber Security | Penetration Testing/BugHunter | Linux Enthusiasts**  
+🔐 **Cyber Security | Penetration Testing/BugHunter | Linux Enthusiasts**  
 
 > *"Learning by breaking things — ethically."*
 
