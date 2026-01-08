@@ -10,9 +10,8 @@
 # 👋 Hi, I'm **Hudzaifah Ar-Rantisi**
 
 🎓 **Informatics Engineering Student**  
-🏫 **STT Nurul Fikri (STANFORD-nya Depok)**  
+🏫 **STT Nurul Fikri (STANFORD nya Depok)**  
 🔐 **Cyber Security | Penetration Testing / Bug Hunter**  
-🐧 **Linux Enthusiast**
 
 > *"Learning by breaking things — ethically."*
 
