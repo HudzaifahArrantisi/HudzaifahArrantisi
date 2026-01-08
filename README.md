@@ -1,21 +1,16 @@
-<table>
-<tr>
-<td width="220" align="center">
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZhdWF6YjZmM29qZTV2OXdpdnFudjNuNDFlOXVsdHlrYjl3dmkzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vPzbDN4rBxuvtpSpzF/giphy.gif" width="200"/>
-
-</td>
-<td>
+<img 
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZhdWF6YjZmM29qZTV2OXdpdnFudjNuNDFlOXVsdHlrYjl3dmkzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vPzbDN4rBxuvtpSpzF/giphy.gif" 
+  width="160" 
+  align="left"
+/>
 
 # 👋 Hi, I'm **Hudzaifah Ar-Rantisi**
 
 🎓 **Informatics Engineering Student**  
-🏫 **STT Nurul Fikri (STANFORD nya Depok)**  
-🔐 **Cyber Security | Penetration Testing / Bug Hunter**  
+🏫 **STT Nurul Fikri (STANFORD-nya Depok)**  
+🔐 **Cyber Security | Penetration Testing / Bug Hunter**
 
 > *"Learning by breaking things — ethically."*
-
----
 
 ### 🌐 Connect With Me
 
@@ -31,6 +26,4 @@
   </a>
 </p>
 
-</td>
-</tr>
-</table>
+<br clear="left"/>
