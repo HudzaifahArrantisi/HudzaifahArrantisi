@@ -26,4 +26,3 @@
   </a>
 </p>
 
-<br clear="left"/>
