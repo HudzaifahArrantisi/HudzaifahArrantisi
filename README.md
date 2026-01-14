@@ -10,9 +10,7 @@
 🏫 **STT Nurul Fikri (STANFORD nya Depok)**  
 🔐 **Cyber Security | Penetration Testing / Bug Hunter**
 
-> *"Learning by breaking things — ethically."*
-
-### 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/hudzaifaharrantisi/  ">
