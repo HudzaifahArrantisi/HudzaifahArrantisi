@@ -1,36 +1,41 @@
-<!-- Profile README for Hudzaifah Arrantisi -->
 <table>
   <tr>
     <td width="160" valign="top">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZhdWF6YjZmM29qZTV2OXdpdnFudjNuNDFlOXVsdHlrYjl3dmkzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vPzbDN4rBxuvtpSpzF/giphy.gif"
-           alt="Hudzaifah GIF"
-           width="150"
+      <img
+        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZhdWF6YjZmM29qZTV2OXdpdnFudjNuNDFlOXVsdHlrYjl3dmkzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vPzbDN4rBxuvtpSpzF/giphy.gif"
+        alt="Hudzaifah GIF"
+        width="150"
       />
     </td>
-    <td valign="middle">
-      ## 👋 Hi, I'm **Hudzaifah Ar-Rantisi**
+    <td valign="top">
+      <h1>👋 Hi, I'm <strong>Hudzaifah Ar-Rantisi</strong></h1>
+      <p>
+        🎓 <strong>Informatics Engineering Student</strong><br/>
+        🔐 <strong>Cyber Security Enthusiast</strong>
+      </p>
 
-      🎓 **Mahasiswa Teknik Informatika**  
-      🔐 **Cyber Security Enthusiast**
-
-      **Keahlian utama:**  
-      - Penetration Testing  
-      - Bug Hunting  
-      - OSINT & Recon
+      <p><strong>Keahlian utama:</strong></p>
+      <ul>
+        <li>Penetration Testing</li>
+        <li>Bug Hunting</li>
+        <li>OSINT & Recon</li>
+      </ul>
     </td>
   </tr>
 </table>
 
----
+<hr/>
 
-### 🧠 Tentang Saya
-Saya fokus pada bidang **offensive security** — terutama rekons, penemuan kerentanan, dan eksploitasi dunia nyata. Saya suka membuat alat untuk mengotomasi alur recon dan terus mengasah kemampuan melalui latihan real-world dan bug bounty.
+<h3>🧠 Tentang Saya</h3>
+<p>
+  Saya fokus pada <strong>offensive security</strong> — terutama reconnaissance,
+  penemuan kerentanan, dan eksploitasi dunia nyata. Saya suka membuat dan
+  mengotomasi tooling untuk workflow recon serta terus mengasah kemampuan lewat
+  latihan dan bug bounty.
+</p>
 
----
-
-### 🌐 Terhubung dengan Saya
-
-<p align="left">
+<h3>🌐 Terhubung dengan Saya</h3>
+<p>
   <a href="https://www.linkedin.com/in/hudzaifaharrantisi/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -42,12 +47,15 @@ Saya fokus pada bidang **offensive security** — terutama rekons, penemuan kere
   </a>
 </p>
 
----
+<h3>🔭 Sedang Mengerjakan</h3>
+<ul>
+  <li>Membangun dan mengotomasi toolkit recon</li>
+  <li>Latihan eksploitasi & write-up untuk program bounty</li>
+</ul>
 
-### 🔭 Sedang Mengerjakan
-- Membangun dan mengotomasi toolkit recon
-- Latihan eksploitasi & write-up untuk program bounty
+<hr/>
 
----
-
-Jika ingin saya sesuaikan lagi (ukuran GIF, warna badge, bahasa Inggris, atau menambahkan ikon/portofolio/link proyek), beri tahu saya dan saya akan perbaiki.  
+<p style="font-size:12px;color:#666;">
+  Jika ingin perubahan (posisi/gif size, bahasa Inggris, warna badge, atau tambahan tautan proyek),
+  beri tahu saya — saya akan perbaiki lagi.
+</p>
