@@ -14,8 +14,7 @@
       </h2>
       <ul style="color:#cfe9f2; margin-top:10px; margin-bottom:14px; padding-left:20px; line-height:1.6;">
         <li>🎓 <strong>Informatics Engineering Student</strong></li>
-        <li>🧩 <strong>Want to be an expert in Reverse Engineering</strong></li>
-        <li>🏆 <strong>Enjoy CTF and Cyber Security</strong></li>
+        <li>🧩 <strong>Cyber Security | Penetration Testing/BugHunter | Linux Enthusiasts/strong></li>
       </ul>
       <p style="margin:8px 0 18px 0;">
         <img src="https://img.shields.io/badge/Codewars-8%20kyu-FF3D00?style=flat&logo=codewars&logoColor=white" alt="codewars" style="margin-right:6px;">
