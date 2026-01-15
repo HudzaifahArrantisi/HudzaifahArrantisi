@@ -7,7 +7,6 @@
 ## 👋 Hi, I'm **Hudzaifah Ar-Rantisi**
 
 🎓 **Informatics Engineering Student**  
-🏫 **STT Nurul Fikri** *(“Stanford-nya Depok”)*  
 🔐 **Cyber Security Enthusiast**  
 &nbsp;&nbsp;&nbsp;&nbsp;• Penetration Testing  
 &nbsp;&nbsp;&nbsp;&nbsp;• Bug Hunting  
