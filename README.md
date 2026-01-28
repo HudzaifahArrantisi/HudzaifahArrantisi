@@ -10,7 +10,7 @@
     </td>
     <td valign="top" style="padding:12px 18px;">
       <h2 style="margin:0 0 8px 0;color:#3ddcff;font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;">
-        I'm Hudzaifah!
+       Hello I'm Hudzaifah!
       </h2>
       <ul style="color:#cfe9f2; margin-top:10px; margin-bottom:14px; padding-left:20px; line-height:1.6;">
         <li> <strong>Informatics Engineering Student</strong></li>
