@@ -19,8 +19,6 @@
 </tr>
 </table>
 
-### ⚡ Focus Areas
-
 ```
 Cyber Security   ████████████░░░  Bug Hunting
 Penetration Test ██████████░░░░░  Linux & Systems
