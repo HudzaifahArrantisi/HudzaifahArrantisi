@@ -2,7 +2,7 @@
   <tr>
     <td width="240" valign="top" style="padding:12px;">
       <img
-        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZhdWF6YjZmM29qZTV2OXdpdnFudjNuNDFlOXVsdHlrYjl3dmkzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vPzbDN4rBxuvtpSpzF/giphy.gif"
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhsc296NmU2dHF2OHp2Y3RibzZjODZ0d245amM5b3NrZndmdWIzdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XN8YOV0H6YfVFFGxth/giphy.gif"
         alt="Hudzaifah GIF"
         width="220"
         style="border-radius:6px;border:1px solid #1f2a30;"
