@@ -18,30 +18,8 @@
 </td>
 </tr>
 </table>
-
----
-
-### 🧠 About Me
-
-- 🎓 Informatics Engineering student with a focus on **security & systems**
-- 🔍 Passionate about **penetration testing**, bug hunting, and low-level systems
-- 🐧 Daily driving Linux — terminal is home
-- 🛡️ Currently sharpening CTF and red-team skills
-
----
-
 ### ⚡ Focus Areas
 
-```
 Cyber Security   ████████████░░░  Bug Hunting
 Penetration Test ██████████░░░░░  Linux & Systems
 CTF / Research   ████████░░░░░░░  Still grinding...
-```
-
----
-
-<div align="center">
-
-*"The quieter you become, the more you can hear."*
-
-</div>
