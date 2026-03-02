@@ -21,23 +21,6 @@
         <img src="https://img.shields.io/badge/Code--Experience-183-gray?style=flat" alt="experience" style="margin-right:6px;">
         <img src="https://komarev.com/ghpvc/?username=HudzaifahArrantisi&color=0e75b6" alt="profile views" style="margin-right:6px;">
       </p>
-      <div style="margin-top:6px;">
-        <strong style="color:#9fd8ee;">Connect With Me</strong>
-        <div style="margin-top:10px;">
-          <a href="https://www.linkedin.com/in/hudzaifaharrantisi/" target="_blank" rel="noopener" style="text-decoration:none;margin-right:8px;">
-            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-          </a>
-          <a href="https://instagram.com/paramspider" target="_blank" rel="noopener" style="text-decoration:none;margin-right:8px;">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-          </a>
-          <a href="https://github.com/HudzaifahArrantisi" target="_blank" rel="noopener" style="text-decoration:none;margin-right:8px;">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-          </a>
-          <a href="mailto:your-email@example.com" target="_blank" rel="noopener" style="text-decoration:none;">
-            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-          </a>
-        </div>
-      </div>
     </td>
   </tr>
 </table>
