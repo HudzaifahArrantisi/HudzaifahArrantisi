@@ -20,7 +20,7 @@
 </table>
 
 ```
-Cyber Security   ████████████░░░  Bug Hunting
-Penetration Test ██████████░░░░░  Linux & Systems
-Developer   ████████░░░░░░░  Still grinding...
+Cyber Security     ████████████░░░  Bug Hunting
+Penetration Test   ██████████░░░░░  Linux & Systems
+Developer          ████████░░░░░░░  Still grinding...
 ```
