@@ -22,5 +22,5 @@
 ```
 Cyber Security   ████████████░░░  Bug Hunting
 Penetration Test ██████████░░░░░  Linux & Systems
-CTF / Research   ████████░░░░░░░  Still grinding...
+Developer   ████████░░░░░░░  Still grinding...
 ```
