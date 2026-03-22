@@ -5,7 +5,7 @@
 </td>
 <td valign="middle">
 
-### Hi, I'm Hudzaifah 👋
+### Hi, I'm Hudzaifah
 
 🎓 Informatics Engineering Student  
 🔐 Cyber Security · Penetration Testing · Bug Hunter  
