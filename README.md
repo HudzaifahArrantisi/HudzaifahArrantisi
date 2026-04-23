@@ -21,6 +21,6 @@
 
 ```
 Cyber Security     ████████████░░░  Bug Hunting
-Penetration Test   ██████████░░░░░  Linux & Systems
-Developer          ████████░░░░░░░  Still grinding...
+Penetration Test   ██████░░░░░░░░░  Linux & Systems
+Developer          █████████████░░  Still grinding...
 ```
