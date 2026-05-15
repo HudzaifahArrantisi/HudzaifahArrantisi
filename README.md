@@ -8,7 +8,7 @@
 ### Hi, I'm Hudzaifah
 
 🎓 Informatics Engineering Student  
-🔐 Cyber Security · Penetration Testing · Bug Hunter  
+🔐 Cyber Security · Penetration Testing 
 
 [![Codewars](https://img.shields.io/badge/Codewars-8%20kyu-FF3D00?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com)
 [![Experience](https://img.shields.io/badge/Code%20Experience-183-3ddcff?style=flat-square)](https://github.com/HudzaifahArrantisi)
