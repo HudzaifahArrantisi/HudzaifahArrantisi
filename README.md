@@ -17,9 +17,3 @@
 </td>
 </tr>
 </table>
-
-```
-Cyber Security     ████████████░░░  Bug Hunting
-Penetration Test   ██████░░░░░░░░░  Linux & Systems
-Developer          █████████████░░  Still grinding...
-```
